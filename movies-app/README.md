@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd .\movies-app\
 npm install
 ```
 
